@@ -8,6 +8,8 @@ Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
+<br>
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 Meu nome é Matheus Carlos, sou de Barreiras, uma cidade não tão pequena, mas também não tão grande no oeste da Bahia. Desde meu ensino médio, já tive contato com algoritmos e pela minha idade, sempre era muito curioso pra poder aplicar o que eu sabia, então sempre fazia algo relacionada nas feira de ciências da minha escola.
