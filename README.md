@@ -1,7 +1,7 @@
 ### Iae devs, bem vindos ao meu perfil 👋👋
 
 Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas a se aprender.
-<br>
+
 <br>
 <br>
 
@@ -10,16 +10,11 @@ Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+Meu nome é Matheus Carlos, sou de Barreiras, uma cidade não tão pequena, mas também não tão grande no oeste da Bahia. Desde meu ensino médio, já tive contato com algoritmos e pela minha idade, sempre era muito curioso pra poder aplicar o que eu sabia, então sempre fazia algo relacionada nas feira de ciências da minha escola.
+Hoje estou com 20 anos e curso Análise e Desenvolvimento de Software em uma faculdade da minha cidade, durante o dia trabalho como programador java e uma empresa de desenvolvimento de sistemas.
 
-}
-```
+<br>
+<br>
 
 ## **Linguagens e Ferramentas:**  
 
