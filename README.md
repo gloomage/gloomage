@@ -1,6 +1,6 @@
-### Oie devs 👋
+### Iae devs, bem vindos ao meu perfil 👋👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas a se aprender.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
