@@ -1,6 +1,6 @@
 ### Iae devs, bem-vindos ao meu perfil 👋👋
 
-Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas a se aprender.
+Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas para se aprender.
 
 <br>
 <br>
