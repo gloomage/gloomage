@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Park%20Ki-Bum%20:%20Polar&fontSize=50)
 
 ### Iae devs, bem-vindos ao meu perfil 👋👋
 
