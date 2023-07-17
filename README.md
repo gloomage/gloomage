@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 ### Iae devs, bem-vindos ao meu perfil 👋👋
 
 Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas para se aprender.
