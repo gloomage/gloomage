@@ -15,8 +15,9 @@ Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Meu nome é Matheus Carlos, sou de Barreiras, uma cidade não tão pequena, mas também não tão grande no oeste da Bahia. Desde meu ensino médio, já tive contato com algoritmos e pela minha idade, sempre era muito curioso pra poder aplicar o que eu sabia, então sempre fazia algo relacionada nas feira de ciências da minha escola.
-Hoje estou com 20 anos e curso Análise e Desenvolvimento de Software em uma faculdade da minha cidade, durante o dia trabalho como programador java e uma empresa de desenvolvimento de sistemas.
+Desenvolvedor Web, com início de atuação em 2022 em uma empresa de software. Estou muito entusiasmado com as novas tecnologias do mercado e tenho me empenhado em aprender constantemente. Mesmo sendo relativamente novo no desenvolvimento, já participei de grandes projetos e estou empolgado para aplicar essa experiência em novos desafios.
+
+Tenho grande foco no desenvolvimento com PHP e VueJS, as quais utilizo para criar RESTful APIs e aplicações web. Estou sempre buscando aprender mais e me aprimorar, a fim de entregar soluções de qualidade para os projetos em que atuo.
 
 <br>
 <br>
