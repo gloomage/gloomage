@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&fontSize=50)
-
-
 ### Iae devs, bem-vindos ao meu perfil 👋👋
 
 Gosto de aprender coisas novas, porém, sempre aprofundando em um assunto, pois quanto mais você sabe, mais vai ter coisas para se aprender.
