@@ -3,8 +3,8 @@
   <img width="69%" height="320px" src="https://leetcard.jacoblin.cool/gloomage?theme=nord&ext=heatmap&border_color=40526e&width=610" alt="Leetcode Stats">
 </div>
 <div align="center">  
-  <img width="54%" height="190px" src="https://github-readme-stats.vercel.app/api?username=gloomage&show_icons=true&theme=nord&border_color=40526e&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gloomage&theme=nord&border_color=40526e" alt="Gloomage's Wakatime stats">
+  <img width="51%" height="190px" src="https://github-readme-stats.vercel.app/api?username=gloomage&show_icons=true&theme=nord&border_color=40526e&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gloomage&theme=nord&border_color=40526e" alt="Gloomage's Wakatime stats">
 </div>
 
 
