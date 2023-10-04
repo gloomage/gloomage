@@ -8,7 +8,7 @@
 </div>
 <br>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=gloomage&color=0D1117" alt="Visit Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=gloomage&color=40526e" alt="Visit Counter"/>
 </div>
 
 
