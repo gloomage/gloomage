@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://www.github.com/gloomage/bidding-scraping">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=bidding-scraping&theme=nord&hide_border=true" />
+  </a>
+  <a href="https://www.github.com/gloomage/simple_webchat">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=simple_webchat&theme=nord&hide_border=true" />
+  </a>
+</div>
+
 <div align="center">  
   <img width="30%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloomage&langs_count=7&theme=nord&border_color=40526e" alt="GitHub Stats">
   <img width="69%" height="320px" src="https://leetcard.jacoblin.cool/gloomage?theme=nord&ext=heatmap&border_color=40526e&width=610" alt="Leetcode Stats">
@@ -8,8 +17,10 @@
 </div>
 <br>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=gloomage&color=40526e" alt="Visit Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=gloomage&color=40526e" alt="Visit Counter" />
 </div>
+
+
 
 
 
