@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://www.github.com/gloomage/bidding-scraping">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=bidding-scraping&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=bidding-scraping&theme=nord&hide_border=true" />
   </a>
   <a href="https://www.github.com/gloomage/simple_webchat">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=simple_webchat&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=simple_webchat&theme=nord&hide_border=true" />
   </a>
 </div>
 
