@@ -1,6 +1,3 @@
-![snake gif](https://github.com/gloomage/gloomage/blob/output/github-contribution-grid-snake.svg)
-
-
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=gloomage&show_icons=true&theme=nord&border_color=40526e&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
   <a href="https://www.github.com/gloomage/chat-with-websockets" style="text-decoration: none;"><img width="52%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=chat-with-websockets&theme=nord&hide_border=true" /></a>
