@@ -10,12 +10,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gloomage&color=40526e" alt="Visit Counter" />
   <a href="https://wa.me/557798586483" ><img src="https://img.shields.io/badge/WhatsApp-40526E?logo=whatsapp&logoColor=25D366" alt="Whatsapp Contact" /></a>
-  <img src="https://img.shields.io/badge/Gmail-40526E?logo=gmail&logoColor=D14836" alt="Gmail Contact" />
-  <img src="https://img.shields.io/badge/Instagram-40526E?logo=instagram&logoColor=23E4405F" alt="Instagram Contact" />
-  <img src="https://img.shields.io/badge/LinkedIn-40526E?logo=linkedin&logoColor=0E76A8" alt="Linkedin Contact" />
-  <img src="https://img.shields.io/badge/LeetCode-40526E?logo=LeetCode&logoColor=#d16c06" alt="LeetCode Contact" />
-  <img src="https://img.shields.io/badge/Codepen-40526E?logo=codepen&logoColor=white" alt="Codepen Contact" />
-  <img src="https://img.shields.io/badge/Portfolio-40526E.svg?logo=brave&logoColor=#FF7139" alt="Portfolio" />
+  <a href="mailto:carlos.mnsp@gmail.com" ><img src="https://img.shields.io/badge/Gmail-40526E?logo=gmail&logoColor=D14836" alt="Gmail Contact" /></a>
+  <a href="https://instagram.com/gloomage" ><img src="https://img.shields.io/badge/Instagram-40526E?logo=instagram&logoColor=23E4405F" alt="Instagram Contact" /></a>
+  <a href="https://linkedin.com/in/gloomage" ><img src="https://img.shields.io/badge/LinkedIn-40526E?logo=linkedin&logoColor=0E76A8" alt="Linkedin Contact" /></a>
+  <a href="https://leetcode.com/u/gloomage" ><img src="https://img.shields.io/badge/LeetCode-40526E?logo=LeetCode&logoColor=#d16c06" alt="LeetCode Contact" />
+  <a href="https://codepen.io/gloomage" ><img src="https://img.shields.io/badge/Codepen-40526E?logo=codepen&logoColor=white" alt="Codepen Contact" /></a>
+  <a href="https://sincsolucoes.com" ><img src="https://img.shields.io/badge/Portfolio-40526E.svg?logo=brave&logoColor=#FF7139" alt="Portfolio" /></a>
 </div>
 
 
