@@ -1,10 +1,10 @@
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=gloomage&show_icons=true&theme=nord&border_color=40526e&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <a href="https://www.github.com/gloomage/chat-with-websockets" style="text-decoration: none;"><img width="52%" src="https://github-readme-stats.vercel.app/api/pin/?username=gloomage&repo=chat-with-websockets&theme=nord&hide_border=true" /></a>
+  <a href="https://www.github.com/gloomage/chat-with-websockets" style="text-decoration: none;"><img width="52%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gloomage&repo=chat-with-websockets&theme=nord&hide_border=true" /></a>
 </div>
 <div align="center">  
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloomage&langs_count=7&theme=nord&border_color=40526e" alt="GitHub Stats">
+  <img width="30%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gloomage&langs_count=7&theme=nord&border_color=40526e" alt="GitHub Stats">
   <img width="69%" src="https://leetcard.jacoblin.cool/gloomage?theme=nord&ext=heatmap&width=605" alt="Leetcode Stats">
 </div>
 <div align="center">  
